@@ -1,0 +1,1 @@
+This project is made up of HTML, CSS and JavaScript. HTML for input and heading , CSS for basic styling and JavaScript for Dom manipulation which fetches movie details from the API based on user input and updates the webpage with the title, year, director, plot, IMDb rating.
